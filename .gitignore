@@ -1,0 +1,37 @@
+# Python internals
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints (Very common clutter!)
+.ipynb_checkpoints/
+
+# Virtual Environments (Do not upload your library folder)
+venv/
+env/
+.env
+
+# Large Data & Models (Keep your repo lightweight)
+*.csv
+*.json
+*.pkl
+*.h5
+datasets/# Python internals
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints (Very common clutter!)
+.ipynb_checkpoints/
+
+# Virtual Environments (Do not upload your library folder)
+venv/
+env/
+.env
+
+# Large Data & Models (Keep your repo lightweight)
+*.csv
+*.json
+*.pkl
+*.h5
+datasets/
+
+.idea/
